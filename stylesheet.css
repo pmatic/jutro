@@ -3,6 +3,8 @@
   --lower: 100;
   --upper: 700;
 }
+
+
 body {
   min-height: 100vh;
   display: flex;
@@ -12,7 +14,7 @@ body {
 }
 h1 {
   font-family: 'Trocchi', serif;
-  font-size: 27rem;
+  font-size: 37vh;
   text-align: center;
   position: absolute;
   top: 50%;
