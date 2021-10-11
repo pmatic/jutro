@@ -3,7 +3,11 @@
   --lower: 100;
   --upper: 700;
 }
-
+@media (min-width: 601px) {
+  body {
+    font-size: 27vh;
+  }
+}
 
 body {
   min-height: 100vh;
